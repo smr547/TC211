@@ -21,6 +21,7 @@ So here goes...
 * [Clock driver DS0026](https://www.jameco.com/Jameco/Products/ProdDS/16301.pdf) only gives two voltage levels -- find another driver
 * [Timing considerations for TC211](https://www.ti.com/lit/an/soca011/soca011.pdf?ts=1603413648448)
 * [Application notes for MC34063](https://www.ti.com/lit/an/slva252b/slva252b.pdf?ts=1603150979912)
+* [Evaluation board for TC211](https://www.ti.com/lit/ug/socu005/socu005.pdf?ts=1603521955801&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FsearchTerm%253Dccd%2Bvertical%2Bdriver) -- contains very useful voltage and timing information
 
 
 ## Main components
