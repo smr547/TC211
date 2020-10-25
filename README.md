@@ -26,6 +26,7 @@ So here goes...
 [UTSource](https://www.utsource.net/itm/p/1753027.html)
 * [LV5609V](https://www.onsemi.com/pub/Collateral/ENA0693-D.PDF) vertical driver with tri-level output -- available from
 [mouser](https://au.mouser.com/Search/Refine?Keyword=LV5609V)
+* Great [op-amp tutorial](https://www.electronics-tutorials.ws/opamp/opamp_1.html) providing background to the "wave shaping" circuit for SRG, IAG and ABG clocks
 
 ## Main components
 
