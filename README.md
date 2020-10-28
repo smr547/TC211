@@ -23,7 +23,8 @@ So here goes...
 * [Application notes for MC34063](https://www.ti.com/lit/an/slva252b/slva252b.pdf?ts=1603150979912)
 * [Evaluation board for TC211](https://www.ti.com/lit/ug/socu005/socu005.pdf?ts=1603521955801&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FsearchTerm%253Dccd%2Bvertical%2Bdriver) -- contains very useful voltage and timing information
 * [TMS3473](https://pdf1.alldatasheet.com/datasheet-pdf/view/29064/TI/TMS3473.html) specialised driver for TI CCD chips -- available from
-[UTSource](https://www.utsource.net/itm/p/1753027.html)
+[UTSource](https://www.utsource.net/itm/p/1753027.html) or
+[AliExpress](https://www.aliexpress.com/item/4001122868517.html?spm)
 * [LV5609V](https://www.onsemi.com/pub/Collateral/ENA0693-D.PDF) vertical driver with tri-level output -- available from
 [mouser](https://au.mouser.com/Search/Refine?Keyword=LV5609V)
 * [THS3111](https://www.digikey.com/en/products/detail/texas-instruments/THS3111ID/598105) op amp for driver circuits
