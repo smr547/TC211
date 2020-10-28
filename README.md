@@ -29,6 +29,7 @@ So here goes...
 [mouser](https://au.mouser.com/Search/Refine?Keyword=LV5609V)
 * [THS3111](https://www.digikey.com/en/products/detail/texas-instruments/THS3111ID/598105) op amp for driver circuits
 * Great [op-amp tutorial](https://www.electronics-tutorials.ws/opamp/opamp_1.html) providing background to the "wave shaping" circuit for SRG, IAG and ABG clocks
+* Excellent notes on [ARM programming](https://www.dprg.org/wp-content/uploads/2019/09/Moving-Up-To-ARM.pdf)
 
 ## Main components
 
